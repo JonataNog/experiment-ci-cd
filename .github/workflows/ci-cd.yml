@@ -1,4 +1,4 @@
-name: experiment-ci-cd #Nome do workflow
+name: experiment-ci-cd-jonata #Nome do workflow
 on:
   pull_request: #Executar quando houver um pull request na branch main
     branches:
